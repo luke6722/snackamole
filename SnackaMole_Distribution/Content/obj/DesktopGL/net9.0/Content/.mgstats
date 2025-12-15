@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/MonoGame/SnackaMole/SnackaMole/Content/burger.ogg","C:/MonoGame/SnackaMole/SnackaMole/Content/bin/DesktopGL/Content/burger.xnb","SoundEffectProcessor","SoundEffectContent",6442,31745,1.1139381
+"C:/MonoGame/SnackaMole/SnackaMole/Content/music.ogg","C:/MonoGame/SnackaMole/SnackaMole/Content/bin/DesktopGL/Content/music.xnb","SoundEffectProcessor","SoundEffectContent",1365210,14117417,0.7902723
+"C:/MonoGame/SnackaMole/SnackaMole/Content/ticks.ogg","C:/MonoGame/SnackaMole/SnackaMole/Content/bin/DesktopGL/Content/ticks.xnb","SoundEffectProcessor","SoundEffectContent",58648,794493,0.7421685

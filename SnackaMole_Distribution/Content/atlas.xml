@@ -1,0 +1,21 @@
+<TextureAtlas>
+    <Texture>Content/atlas.png</Texture>
+    <Regions>
+        <Region name="mole-1" x="0" y="0" width="20" height="20" />
+        <Region name="mole-2" x="0" y="20" width="20" height="20" />
+        <Region name="burger-1" x="20" y="0" width="20" height="20" />
+        <Region name="burger-2" x="20" y="20" width="20" height="20" />
+        <Region name="burger-3" x="40" y="0" width="20" height="20" />
+    </Regions>
+    <Animations>
+        <Animation name="mole-animation" delay="200">
+            <Frame region="mole-1" />
+            <Frame region="mole-2" />
+        </Animation>
+        <Animation name="burger-animation" delay="400">
+            <Frame region="burger-1" />
+            <Frame region="burger-2" />
+            <Frame region="burger-3" />
+        </Animation>
+    </Animations>
+</TextureAtlas>
